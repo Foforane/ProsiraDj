@@ -47,6 +47,9 @@ nav a:hover{
     width: 100%;
   height:80vh;
 }
+.video{
+    width: 100%;
+}
 
 .Songs{
     display: flex;
@@ -83,7 +86,7 @@ background-blend-mode: multiply;
 
 }
 section{
-    padding: 3em 1em;
+    padding-top: 3.5rem;
 }
 .About-Nyana{
     text-align: center;
