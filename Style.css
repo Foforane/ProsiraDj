@@ -103,6 +103,10 @@ section{
   top: 67;
     justify-content:space-around;
 }
+.Song-Discription p{
+width: 60%;
+margin:  auto;
+}
 .Song-Discription ul{
     list-style: none;
     display: flex;
