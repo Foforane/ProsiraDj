@@ -45,7 +45,7 @@ nav a:hover{
 }
 .lVid,.vFrame{
     width: 100%;
-  height:80vh;
+  height:60vh;
 }
 .video{
     width: 100%;
@@ -65,11 +65,14 @@ background-color: white;
   
 }
  
-
+.Song img{
+    cursor: pointer;
+}
 .Song img{
     
-    
-    width: 100%;
+    display:block;
+    width: 60%;
+    margin: auto;
     object-fit: contain;  
    
 }
